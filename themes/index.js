@@ -1,15 +1,15 @@
 const themes = {
   default: {
-    title_color: "58A6FF",
-    icon_color: "4c71f2",
-    text_color: "c9d1d9",
-    bg_color: "0D1117",
+    title_color: "fe428e",
+    icon_color: "f8d847",
+    text_color: "a9fef7",
+    bg_color: "141321",
   },
   default_repocard: {
-    title_color: "2f80ed",
-    icon_color: "586069", // icon color is different
-    text_color: "333",
-    bg_color: "fffefe",
+    title_color: "fe428e",
+    icon_color: "f8d847",
+    text_color: "a9fef7",
+    bg_color: "141321",
   },
   dark: {
     title_color: "fff",
