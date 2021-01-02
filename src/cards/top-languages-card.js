@@ -117,7 +117,7 @@ const renderTopLanguages = (topLangs, options = {}) => {
 
   // RENDER COMPACT LAYOUT
   if (layout === "compact") {
-    width = width + 100;
+    width = width + 250;
     height = 90 + Math.round(langs.length / 2) * 25;
 
     // progressOffset holds the previous language's width and used to offset the next language
