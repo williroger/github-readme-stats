@@ -1,9 +1,9 @@
 const themes = {
   default: {
-    title_color: "2f80ed",
+    title_color: "58A6FF",
     icon_color: "4c71f2",
-    text_color: "333",
-    bg_color: "fffefe",
+    text_color: "c9d1d9",
+    bg_color: "0D1117",
   },
   default_repocard: {
     title_color: "2f80ed",
